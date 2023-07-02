@@ -16,4 +16,4 @@ This project aims to create a simple Tic-Tac-Toe game using MIPS assembly. The g
 - Validation of moves to ensure they are legal and within the bounds of the game board.
 - Detection of a winning move and declaration of the winner.
 
-![Gameplay screenshot](/TTTimg.jpg)
+![Gameplay screenshot](/Image.jpg)

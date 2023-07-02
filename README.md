@@ -1,6 +1,3 @@
-# -Tic-Tac-Toe-Game-in-MIPS-Assembly
-
-#mips #mipsassembily #elementsofcomputhingsystem #mipsprogramming #tictavtoe #TicTacToeGameinMIPSAssembly
 # Tic-Tac-Toe Game in MIPS Assembly
 
 This is a Tic-Tac-Toe game implemented in MIPS assembly language.
@@ -17,3 +14,5 @@ This project aims to create a simple Tic-Tac-Toe game using MIPS assembly. The g
 - Detection of a winning move and declaration of the winner.
 
 ![Gameplay screenshot](/Image.jpg)
+
+#mips #mipsassembily #elementsofcomputhingsystem #mipsprogramming #tictavtoe #TicTacToeGameinMIPSAssembly

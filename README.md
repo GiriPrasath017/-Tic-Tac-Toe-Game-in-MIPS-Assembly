@@ -8,11 +8,11 @@ This project aims to create a simple Tic-Tac-Toe game using MIPS assembly. The g
 
 ## Features
 
-- Interactive gameplay with a graphical representation of the game board.
-- Player input through the console to select the desired move.
+- Interactive gameplay with the game board.
+- Player input through the numpad to select the desired move.
 - Validation of moves to ensure they are legal and within the bounds of the game board.
 - Detection of a winning move and declaration of the winner.
 
-![Gameplay screenshot](/Image.jpg)
+![Image](/Image.jpg)
 
 #mips #mipsassembily #elementsofcomputhingsystem #mipsprogramming #tictavtoe #TicTacToeGameinMIPSAssembly
